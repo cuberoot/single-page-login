@@ -3,9 +3,9 @@ Package.describe({
   // Version number.
   version: "0.5.0",
   // Optional.  Default is package directory name.
-  name: "steeve:single-page-login",
+  name: "cuberoot:single-page-login",
   // Optional github URL to your source repository.
-  git: "https://github.com/EtherPOS/single-page-login.git",
+  git: "https://github.com/cuberoot/single-page-login.git",
   documentation: 'README.md'
 });
 
